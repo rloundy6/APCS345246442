@@ -1,5 +1,5 @@
 *.class
-*.ctext
+*.ctxt
 package.bluej
 .DS_Store
 
